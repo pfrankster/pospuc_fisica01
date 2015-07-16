@@ -1,0 +1,12 @@
+Para instalar o ambiente de desenvolvimento, execute os passos abaixo:
+
+1) Copiar o CONTEÚDO da pasta dlls para a pasta System do Windows
+
+2) Copiar o CONTEÚDO da pasta include para a pasta include do Visual Studio 2010 (por exemplo: C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include)
+
+3) Copiar o CONTEÚDO da pasta libs para a pasta lib do Visual Studio 2010 (por exemplo: C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib)
+
+Qualquer dúvida, entrar em contato:
+
+Prof. Fabio Vinicius Binder
+fabio.binder@pucpr.br
